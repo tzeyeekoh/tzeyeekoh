@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Z Koh
 - 👀 I’m interested in techy techy stuff
-- 🌱 I’m currently learning how to use Github :)
+- 🌱 I’m currently studying
 - 💞️ I’m looking to collaborate on fun stuff
 
 <!---
